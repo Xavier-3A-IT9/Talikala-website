@@ -148,3 +148,146 @@
   html {
     scroll-behavior: smooth;
   }
+
+
+
+.collumn11 {
+    position: relative;
+    max-height: 300px;
+    height: 300px;
+    width: 100%;
+    background-image: url(artbg2.png);
+    background-size: contain;
+}
+
+.text11 {
+    position: absolute;
+    height: 250px;
+    max-height: 250px;
+    width: 1000px;
+    top: 25px;
+    right: 300px;
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    z-index: 30;
+    color: #AA85AF;
+}
+
+span.highlight11 {
+    font-size: 25px;
+    color: #C7BCFF;
+
+}
+
+.imageaff1 {
+  width: 250px;
+  height: 250px;
+  background-image: url(kiara.png);
+  background-size: cover;
+  position: relative;
+  left: 270px;
+}
+
+#img1 {
+  background-image: url(dom2.png);
+  background-size: cover;
+  z-index: 31;
+  left: 20px;
+  bottom: 300px;
+}
+
+#img2 {
+  background-image: url(dom1.png);
+  background-size: cover;
+  left: 1600px;
+  top: 0px;
+  z-index: 20;
+  top: -590px;
+}
+
+.sidebgimages {
+  height: 280px;
+  width: 280px;
+  margin: 10px 0px;
+  z-index: 20;    
+  position: relative;
+}
+
+.collumn {
+  position: relative;
+  max-height: 300px;
+  height: 300px;
+  width: 100%;
+  background-color: #EAAF9C;
+  
+}
+
+.text {
+  position: absolute;
+  height: 250px;
+  max-height: 250px;
+  width: 1000px;
+  color: C8D3D5;
+  top: 25px;
+  right: 300px;
+  font-family: 'Alata', sans-serif;
+  font-size: 20px;
+  z-index: 30;
+  color: white;
+}
+
+.image  {
+  position: relative;
+  height: 250px;
+  max-height: 250px;
+  width: 250px; 
+  left: 300px;
+  top: 25px;
+  z-index: 30;
+}
+
+.collumnw {
+  position: relative;
+  top: 1160px;
+  max-height: 300px;
+  height: 300px;
+  width: 100%;
+  background-color: #EAAF9C;
+  
+}
+
+#img1w {
+  background-image: url(dom2.png);
+  background-size: cover;
+  z-index: 31;
+  left: 20px;
+  bottom: 300px;
+  top: 860px;
+}
+
+#img2w {
+  background-image: url(dom1.png);
+  background-size: cover;
+  left: 1600px;
+  top: 1160px;
+  z-index: 20;
+  top: 570px;
+}
+
+.imageaff11 {
+  width: 250px;
+  height: 250px;
+  background-image: url(Ash.jpg);
+  background-size: cover;
+  position: relative;
+  left: 270px;
+}
+
+.imageaff12 {
+  width: 250px;
+  height: 250px;
+  background-image: url(Dominique.jpg);
+  background-size: cover;
+  position: relative;
+  left: 270px;
+}
